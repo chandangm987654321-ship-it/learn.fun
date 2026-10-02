@@ -1,0 +1,6 @@
+{
+  "name": "OmniLearn AI - STEM Lesson & Virtual Lab Platform",
+  "description": "AI-powered interactive lesson explanation platform with virtual science experiments, photo homework solver, high-thinking tutor, and customizable student avatars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
